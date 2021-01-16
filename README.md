@@ -1,0 +1,1 @@
+# zno.osvita.ua-hack
