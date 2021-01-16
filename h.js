@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ZNO FUCK TEST
 // @namespace    https://zno.osvita.ua/
-// @version      0.2
+// @version      0.3
 // @description  zno.osvita.ua | F U C K
 // @author       Anjik and NLock
 // @match        https://zno.osvita.ua/*
