@@ -10,5 +10,6 @@
 #### **Процесс установки:**
 1. Скачиваем [Tampermonkey](https://www.tampermonkey.net/).
 2. Копируем скрипт, и вставляем
+
 ⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝
 #### **Created by Andriy55qq and NLock**
