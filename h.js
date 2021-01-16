@@ -8,6 +8,7 @@
 // @match        http://zno.osvita.ua/*
 // @match        https://zno.osvita.ua/
 // @match        http://zno.osvita.ua/
+// @require      https://raw.githubusercontent.com/Andriy55qq/zno.osvita.ua-hack/main/h.js
 // @updateURL    https://raw.githubusercontent.com/Andriy55qq/zno.osvita.ua-hack/main/h.js
 // ==/UserScript==
 
