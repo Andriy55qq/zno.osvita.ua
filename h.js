@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         ZNO FUCK TEST
 // @namespace    https://zno.osvita.ua/
-// @version      0.2
-// @description  try to take over the world!
+// @version      0.1
+// @description  Fuckyou
 // @author       You
 // @match        https://zno.osvita.ua/*
 // @match        http://zno.osvita.ua/*
 // @match        https://zno.osvita.ua/
 // @match        http://zno.osvita.ua/
 // @updateURL    https://raw.githubusercontent.com/Andriy55qq/zno.osvita.ua-hack/main/h.js
-// @grant        none
+// @downloadURL  https://raw.githubusercontent.com/Andriy55qq/zno.osvita.ua-hack/main/h.js
 // ==/UserScript==
 
 
